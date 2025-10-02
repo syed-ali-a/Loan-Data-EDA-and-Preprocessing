@@ -1,16 +1,16 @@
-# 🏦 Loan Data Analysis – Approval Trends & Borrower Insights
+# Loan Data Analysis – Approval Trends & Borrower Insights
 
 This data analytics project explores loan approval patterns and borrower behavior using exploratory data analysis (EDA), feature engineering, and statistical testing. The goal is to extract insights that help financial institutions make smarter lending decisions.
 
 ---
 
-## 📌 Problem Statement
+## Problem Statement
 
 A financial institution aims to improve its loan approval process by identifying which features most influence approval or rejection. Analyzing historical loan data can uncover patterns for better risk assessment.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Identify key features influencing loan approvals.
 - Analyze demographic and financial patterns of applicants.
@@ -20,7 +20,7 @@ A financial institution aims to improve its loan approval process by identifying
 
 ---
 
-## 📊 Dataset Overview
+##  Dataset Overview
 
 The dataset includes information such as:
 
@@ -31,35 +31,35 @@ The dataset includes information such as:
 
 ---
 
-## 📈 Exploratory Data Analysis (EDA)
+##  Exploratory Data Analysis (EDA)
 
-- ✅ Removed nulls and duplicates
-- 📌 Feature Engineering: Created Total Income, EMI, Balance Income
-- 📊 Visualizations:
+-  Removed nulls and duplicates
+-  Feature Engineering: Created Total Income, EMI, Balance Income
+-  Visualizations:
   - Loan approval rates by gender, education, property area
   - Income distribution comparison across loan status
   - Credit history impact on approval rate
 
-## 💡 Recommendations
+##  Recommendations
 
-### 1. ✅ Prioritize Applicants with Good Credit History  
+### 1.  Prioritize Applicants with Good Credit History  
 Credit history is the most predictive feature—emphasize its role in eligibility scoring.
 
-### 2. 💰 Use EMI-to-Income Ratio as a Risk Filter  
+### 2.  Use EMI-to-Income Ratio as a Risk Filter  
 High EMI burdens indicate risk—use thresholds to guide approvals.
 
-### 3. 🏙️ Focus on Urban & Semiurban Areas  
+### 3.  Focus on Urban & Semiurban Areas  
 Approval rates are better in these areas—design tailored loan products.
 
-### 4. 🎓 Support Financial Literacy for Non-Graduates  
+### 4.  Support Financial Literacy for Non-Graduates  
 Educating this segment could improve eligibility and reduce rejections.
 
-### 5. 🧑‍💼 Offer Flexibility to Self-Employed Applicants  
+### 5.  Offer Flexibility to Self-Employed Applicants  
 Use alternate documentation or flexible plans for their approval.
 
 ---
 
-## 🛠️ Tools & Libraries
+##  Tools & Libraries
 
 - **Python**: Pandas, NumPy
 - **Visualization**: Matplotlib, Seaborn
@@ -68,7 +68,7 @@ Use alternate documentation or flexible plans for their approval.
 
 ---
 
-## 📌 Final Summary
+##  Final Summary
 
 This end-to-end EDA and statistical analysis identifies key drivers behind loan approvals. By cleaning the data, creating new features, testing hypotheses, and visualizing patterns, we offer insights that can help banks and lenders refine their credit models and improve their services.
 
